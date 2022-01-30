@@ -32,3 +32,8 @@ Univariate and Multivariate LSTM for Stock Price Prediction : https://drive.goog
 # To Do
 -> Better UI for Prediction\
 -> Chatbot for helping users.
+
+# Contributed By
+1. Gokul Raj S N
+2. Lingeshwaran R
+3. Silesh A K
