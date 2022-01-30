@@ -1,5 +1,5 @@
 
-# Stock Price Forecasting
+# Stock Market Price Forecasting
 
 Stock Market Price Forecasting is implemented using Deep Learning Models(ConvLSTM, Bidirectional LSTM etc.,) for Univariate and Multivariate Analysis. 
 
