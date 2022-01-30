@@ -24,10 +24,10 @@ Stop Price Prediction is implemented using Deep Learning Models(ConvLSTM, Bidire
    Train Score: 0.25 RMSE\
    Loss Average: 0.0767
 
-# Drive Link for the Video of Simulation and Demo
+# Drive Link for the Video of Demo and Simulation
 
-Univaraiate and Multivariate LSTM for Stock Price Prediction : https://drive.google.com/file/d/1PUqomvealmMsIXnPJbhsaRlsfRyzMmTG/view?usp=sharing
+Univariate and Multivariate LSTM for Stock Price Prediction : https://drive.google.com/file/d/1PUqomvealmMsIXnPJbhsaRlsfRyzMmTG/view?usp=sharing
 
-# To De
+# To Do
 -> Better UI for Prediction\
 -> Chatbot for helping users.
