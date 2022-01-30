@@ -1,7 +1,7 @@
 
-# Stock Price Prediction
+# Stock Price Forecasting
 
-Stop Price Prediction is implemented using Deep Learning Models(ConvLSTM, Bidirectional LSTM etc.,) for Univariate and Multivariate Analysis. 
+Stock Market Price Forecasting is implemented using Deep Learning Models(ConvLSTM, Bidirectional LSTM etc.,) for Univariate and Multivariate Analysis. 
 
 # Technologies Used
 -> Python 3.8\
@@ -13,7 +13,7 @@ Stop Price Prediction is implemented using Deep Learning Models(ConvLSTM, Bidire
 -> Pywebio 1.5.2
 
 # Features
--> User can predict the stock Price based on the past data.\
+-> User can forecast the Stock Price based on the past data.\
 -> User can reset the value they entered.
 
 # Performance Metrics:
@@ -27,10 +27,10 @@ Stop Price Prediction is implemented using Deep Learning Models(ConvLSTM, Bidire
 
 # Drive Link for the Video of Demo and Simulation
 
-Univariate and Multivariate LSTM for Stock Price Prediction : https://drive.google.com/file/d/1PUqomvealmMsIXnPJbhsaRlsfRyzMmTG/view?usp=sharing
+Univariate and Multivariate LSTM for Stock Price Forecasting : https://drive.google.com/file/d/1PUqomvealmMsIXnPJbhsaRlsfRyzMmTG/view?usp=sharing
 
 # To Do
--> Better UI for Prediction\
+-> Better UI for Forecasting\
 -> Chatbot for helping users.
 
 # Contributed By
