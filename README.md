@@ -4,12 +4,13 @@
 Stop Price Prediction is implemented using Deep Learning Models(ConvLSTM, Bidirectional LSTM etc.,) for Univariate and Multivariate Analysis. 
 
 # Technologies Used
--> Python\
--> Jupyter Notebook\
--> Keras\
--> TensorFlow\
--> Numpy\
--> Matplotlib
+-> Python 3.8\
+-> Jupyter Notebook 6.4.6\
+-> Keras 2.7\
+-> TensorFlow 2.7.0\
+-> Numpy 1.11.0\
+-> Matplotlib 3.1\
+-> Pywebio 1.5.2
 
 # Features
 -> User can predict the stock Price based on the past data.\
